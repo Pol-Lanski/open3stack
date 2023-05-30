@@ -43,7 +43,7 @@ We believe that having open source, permissionless, and privacy preserving tools
 
 #### Staking
 - [Vanilla Solo Staking](https://ethereum.org/en/staking/solo/)
-- [Solo Staking w/ Dappnode](https://dappnode.io/)
+- [Solo Staking w/ Dappnode](https://dappnode.com/)
 - [Solo Staking w/ Stereum](https://stereum.net/)
 - [Rocket Pool](https://stake.rocketpool.net/)
 
